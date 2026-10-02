@@ -1,0 +1,239 @@
+{
+  "provinces": [
+    {
+      "id": 1,
+      "en": "Koshi Province",
+      "np": "कोशी प्रदेश",
+      "capital": "Biratnagar",
+      "districts": [
+        {"en": "Bhojpur", "np": "भोजपुर"},
+        {"en": "Dhankuta", "np": "धनकुटा"},
+        {"en": "Ilam", "np": "इलाम"},
+        {"en": "Jhapa", "np": "झापा"},
+        {"en": "Khotang", "np": "खोटाङ"},
+        {"en": "Morang", "np": "मोरङ"},
+        {"en": "Okhaldhunga", "np": "ओखलढुङ्गा"},
+        {"en": "Panchthar", "np": "पाँचथर"},
+        {"en": "Sankhuwasabha", "np": "सङ्खुवासभा"},
+        {"en": "Solukhumbu", "np": "सोलुखुम्बु"},
+        {"en": "Sunsari", "np": "सुनसरी"},
+        {"en": "Taplejung", "np": "ताप्लेजुङ"},
+        {"en": "Terhathum", "np": "तेह्रथुम"},
+        {"en": "Udayapur", "np": "उदयपुर"}
+      ]
+    },
+    {
+      "id": 2,
+      "en": "Madhesh Province",
+      "np": "मधेश प्रदेश",
+      "capital": "Janakpur",
+      "districts": [
+        {"en": "Saptari", "np": "सप्तरी"},
+        {"en": "Siraha", "np": "सिराहा"},
+        {"en": "Dhanusa", "np": "धनुषा"},
+        {"en": "Mahottari", "np": "महोत्तरी"},
+        {"en": "Sarlahi", "np": "सर्लाही"},
+        {"en": "Rautahat", "np": "रौतहट"},
+        {"en": "Bara", "np": "बारा"},
+        {"en": "Parsa", "np": "पर्सा"}
+      ]
+    },
+    {
+      "id": 3,
+      "en": "Bagmati Province",
+      "np": "बागमती प्रदेश",
+      "capital": "Hetauda",
+      "districts": [
+        {"en": "Kathmandu", "np": "काठमाडौँ"},
+        {"en": "Lalitpur", "np": "ललितपुर"},
+        {"en": "Bhaktapur", "np": "भक्तपुर"},
+        {"en": "Kavrepalanchok", "np": "काभ्रेपलाञ्चोक"},
+        {"en": "Sindhupalchok", "np": "सिन्धुपाल्चोक"},
+        {"en": "Rasuwa", "np": "रसुवा"},
+        {"en": "Dolakha", "np": "दोलखा"},
+        {"en": "Ramechhap", "np": "रामेछाप"},
+        {"en": "Sindhuli", "np": "सिन्धुली"},
+        {"en": "Makwanpur", "np": "मकवानपुर"},
+        {"en": "Nuwakot", "np": "नुवाकोट"},
+        {"en": "Dhading", "np": "धादिङ"},
+        {"en": "Chitwan", "np": "चितवन"}
+      ]
+    },
+    {
+      "id": 4,
+      "en": "Gandaki Province",
+      "np": "गण्डकी प्रदेश",
+      "capital": "Pokhara",
+      "districts": [
+        {"en": "Gorkha", "np": "गोरखा"},
+        {"en": "Lamjung", "np": "लमजुङ"},
+        {"en": "Tanahun", "np": "तनहुँ"},
+        {"en": "Syangja", "np": "स्याङ्जा"},
+        {"en": "Kaski", "np": "कास्की"},
+        {"en": "Manang", "np": "मनाङ"},
+        {"en": "Mustang", "np": "मुस्ताङ"},
+        {"en": "Myagdi", "np": "म्याग्दी"},
+        {"en": "Parbat", "np": "पर्वत"},
+        {"en": "Baglung", "np": "बागलुङ"},
+        {"en": "Nawalpur", "np": "नवलपुर"}
+      ]
+    },
+    {
+      "id": 5,
+      "en": "Lumbini Province",
+      "np": "लुम्बिनी प्रदेश",
+      "capital": "Deukhuri",
+      "districts": [
+        {"en": "Kapilvastu", "np": "कपिलवस्तु"},
+        {"en": "Rupandehi", "np": "रुपन्देही"},
+        {"en": "Arghakhanchi", "np": "अर्घाखाँची"},
+        {"en": "Gulmi", "np": "गुल्मी"},
+        {"en": "Palpa", "np": "पाल्पा"},
+        {"en": "Rukum East", "np": "पूर्वी रुकुम"},
+        {"en": "Rolpa", "np": "रोल्पा"},
+        {"en": "Pyuthan", "np": "प्यूठान"},
+        {"en": "Dang", "np": "दाङ"},
+        {"en": "Banke", "np": "बाँके"},
+        {"en": "Bardiya", "np": "बर्दिया"},
+        {"en": "Nawalparasi West", "np": "पश्चिम नवलपरासी"}
+      ]
+    },
+    {
+      "id": 6,
+      "en": "Karnali Province",
+      "np": "कर्णाली प्रदेश",
+      "capital": "Birendranagar",
+      "districts": [
+        {"en": "Surkhet", "np": "सुर्खेत"},
+        {"en": "Salyan", "np": "सल्यान"},
+        {"en": "Dolpa", "np": "डोल्पा"},
+        {"en": "Jumla", "np": "जुम्ला"},
+        {"en": "Kalikot", "np": "कालिकोट"},
+        {"en": "Mugu", "np": "मुगु"},
+        {"en": "Humla", "np": "हुम्ला"},
+        {"en": "Jajarkot", "np": "जाजरकोट"},
+        {"en": "Dailekh", "np": "दैलेख"},
+        {"en": "Rukum West", "np": "पश्चिम रुकुम"}
+      ]
+    },
+    {
+      "id": 7,
+      "en": "Sudurpashchim Province",
+      "np": "सुदूरपश्चिम प्रदेश",
+      "capital": "Godawari",
+      "districts": [
+        {"en": "Kailali", "np": "कैलाली"},
+        {"en": "Kanchanpur", "np": "कञ्चनपुर"},
+        {"en": "Doti", "np": "डोटी"},
+        {"en": "Achham", "np": "अछाम"},
+        {"en": "Bajhang", "np": "बझाङ"},
+        {"en": "Bajura", "np": "बाजुरा"},
+        {"en": "Dadeldhura", "np": "डडेलधुरा"},
+        {"en": "Baitadi", "np": "बैतडी"},
+        {"en": "Darchula", "np": "दार्चुला"}
+      ]
+    }
+  ],
+  "municipalities": {
+    "Koshi Province": [
+      {"en": "Biratnagar", "np": "विराटनगर", "district": "Morang"},
+      {"en": "Dharan", "np": "धरान", "district": "Sunsari"},
+      {"en": "Itahari", "np": "इटहरी", "district": "Sunsari"},
+      {"en": "Bhadrapur", "np": "भद्रपुर", "district": "Jhapa"},
+      {"en": "Birtamod", "np": "विर्तामोड", "district": "Jhapa"},
+      {"en": "Ilam", "np": "इलाम", "district": "Ilam"},
+      {"en": "Inaruwa", "np": "इनरुवा", "district": "Sunsari"},
+      {"en": "Dhankuta", "np": "धनकुटा", "district": "Dhankuta"},
+      {"en": "Bhojpur", "np": "भोजपुर", "district": "Bhojpur"}
+    ],
+    "Madhesh Province": [
+      {"en": "Janakpur", "np": "जनकपुर", "district": "Dhanusa"},
+      {"en": "Rajbiraj", "np": "राजविराज", "district": "Saptari"},
+      {"en": "Siraha", "np": "सिराहा", "district": "Siraha"},
+      {"en": "Jaleshwar", "np": "जलेश्वर", "district": "Mahottari"},
+      {"en": "Malangwa", "np": "मलङ्गवा", "district": "Sarlahi"},
+      {"en": "Gaur", "np": "गौर", "district": "Rautahat"},
+      {"en": "Birgunj", "np": "वीरगञ्ज", "district": "Parsa"},
+      {"en": "Kalaiya", "np": "कलैया", "district": "Bara"}
+    ],
+    "Bagmati Province": [
+      {"en": "Kathmandu", "np": "काठमाडौँ", "district": "Kathmandu"},
+      {"en": "Lalitpur", "np": "ललितपुर", "district": "Lalitpur"},
+      {"en": "Bhaktapur", "np": "भक्तपुर", "district": "Bhaktapur"},
+      {"en": "Hetauda", "np": "हेटौडा", "district": "Makwanpur"},
+      {"en": "Banepa", "np": "बनेपा", "district": "Kavrepalanchok"},
+      {"en": "Dhulikhel", "np": "धुलिखेल", "district": "Kavrepalanchok"},
+      {"en": "Chautara", "np": "चौतारा", "district": "Sindhupalchok"},
+      {"en": "Melamchi", "np": "मेलम्ची", "district": "Sindhupalchok"},
+      {"en": "Charikot", "np": "चरिकोट", "district": "Dolakha"},
+      {"en": "Kamalamai", "np": "कमलामाई", "district": "Sindhuli"},
+      {"en": "Kirtipur", "np": "कीर्तिपुर", "district": "Kathmandu"},
+      {"en": "Nagarjun", "np": "नागार्जुन", "district": "Kathmandu"},
+      {"en": "Ratnanagar", "np": "रत्ननगर", "district": "Chitwan"}
+    ],
+    "Gandaki Province": [
+      {"en": "Pokhara", "np": "पोखरा", "district": "Kaski"},
+      {"en": "Gorkha", "np": "गोरखा", "district": "Gorkha"},
+      {"en": "Besisahar", "np": "बेसीशहर", "district": "Lamjung"},
+      {"en": "Damauli", "np": "दमौली", "district": "Tanahun"},
+      {"en": "Syangja", "np": "स्याङ्जा", "district": "Syangja"},
+      {"en": "Kusma", "np": "कुश्मा", "district": "Parbat"},
+      {"en": "Baglung", "np": "बागलुङ", "district": "Baglung"},
+      {"en": "Beni", "np": "बेनी", "district": "Myagdi"},
+      {"en": "Jomsom", "np": "जोमसोम", "district": "Mustang"},
+      {"en": "Chame", "np": "चामे", "district": "Manang"}
+    ],
+    "Lumbini Province": [
+      {"en": "Butwal", "np": "बुटवल", "district": "Rupandehi"},
+      {"en": "Siddharthanagar", "np": "सिद्धार्थनगर", "district": "Rupandehi"},
+      {"en": "Tansen", "np": "तानसेन", "district": "Palpa"},
+      {"en": "Sandhikharka", "np": "सन्धिखर्क", "district": "Arghakhanchi"},
+      {"en": "Tamghas", "np": "तम्घास", "district": "Gulmi"},
+      {"en": "Lumbini Sanskritik", "np": "लुम्बिनी सांस्कृतिक", "district": "Rupandehi"},
+      {"en": "Kapilvastu", "np": "कपिलवस्तु", "district": "Kapilvastu"},
+      {"en": "Tulsipur", "np": "तुलसीपुर", "district": "Dang"},
+      {"en": "Ghorahi", "np": "घोराही", "district": "Dang"},
+      {"en": "Nepalgunj", "np": "नेपालगञ्ज", "district": "Banke"},
+      {"en": "Gulariya", "np": "गुलरिया", "district": "Bardiya"},
+      {"en": "Musikot", "np": "मुसिकोट", "district": "Rukum East"}
+    ],
+    "Karnali Province": [
+      {"en": "Birendranagar", "np": "वीरेन्द्रनगर", "district": "Surkhet"},
+      {"en": "Jumla", "np": "जुम्ला", "district": "Jumla"},
+      {"en": "Dunai", "np": "दुनै", "district": "Dolpa"},
+      {"en": "Manma", "np": "मान्मा", "district": "Kalikot"},
+      {"en": "Gamgadhi", "np": "गमगढी", "district": "Mugu"},
+      {"en": "Simikot", "np": "सिमिकोट", "district": "Humla"},
+      {"en": "Khalanga", "np": "खलङ्गा", "district": "Jajarkot"},
+      {"en": "Dullu", "np": "दुल्लु", "district": "Dailekh"},
+      {"en": "Salyan", "np": "सल्यान", "district": "Salyan"},
+      {"en": "Chaurjahari", "np": "चौरजहारी", "district": "Rukum West"}
+    ],
+    "Sudurpashchim Province": [
+      {"en": "Godawari", "np": "गोदावरी", "district": "Kailali"},
+      {"en": "Mahendranagar", "np": "महेन्द्रनगर", "district": "Kanchanpur"},
+      {"en": "Dhangadhi", "np": "धनगढी", "district": "Kailali"},
+      {"en": "Dipayal Silgadhi", "np": "दिपायल सिलगढी", "district": "Doti"},
+      {"en": "Mangalsen", "np": "मङ्गलसेन", "district": "Achham"},
+      {"en": "Jaya Prithvi", "np": "जयपृथ्वी", "district": "Bajhang"},
+      {"en": "Bajura", "np": "बाजुरा", "district": "Bajura"},
+      {"en": "Amargadhi", "np": "अमरगढी", "district": "Dadeldhura"},
+      {"en": "Dasharathchand", "np": "दशरथचन्द", "district": "Baitadi"},
+      {"en": "Darchula", "np": "दार्चुला", "district": "Darchula"}
+    ]
+  },
+  "ward_counts": {
+    "Kathmandu": 32,
+    "Lalitpur": 29,
+    "Bhaktapur": 10,
+    "Pokhara": 33,
+    "Biratnagar": 19,
+    "Birgunj": 32,
+    "Janakpur": 25,
+    "Butwal": 19,
+    "Dharan": 20,
+    "Itahari": 20,
+    "Dhangadhi": 11
+  },
+  "default_ward_count": 9
+}

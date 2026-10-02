@@ -1,0 +1,120 @@
+{
+  "bahun_chhetri": {
+    "male_surnames": [
+      {"en": "Sharma", "np": "शर्मा"},
+      {"en": "Acharya", "np": "आचार्य"},
+      {"en": "Adhikari", "np": "अधिकारी"},
+      {"en": "Bhattarai", "np": "भट्टराई"},
+      {"en": "Bastola", "np": "बस्तोला"},
+      {"en": "Dhakal", "np": "ढकाल"},
+      {"en": "Gautam", "np": "गौतम"},
+      {"en": "Koirala", "np": "कोइराला"},
+      {"en": "Neupane", "np": "न्यौपाने"},
+      {"en": "Pokharel", "np": "पोखरेल"},
+      {"en": "Regmi", "np": "रेग्मी"},
+      {"en": "Sedhai", "np": "सेढाई"},
+      {"en": "Subedi", "np": "सुवेदी"},
+      {"en": "Thapa", "np": "थापा"},
+      {"en": "Karki", "np": "कार्की"},
+      {"en": "Khadka", "np": "खड्का"},
+      {"en": "Rana", "np": "राणा"},
+      {"en": "Rawal", "np": "रावल"},
+      {"en": "Bhandari", "np": "भण्डारी"},
+      {"en": "Dhami", "np": "धामी"},
+      {"en": "Basnet", "np": "बस्नेत"},
+      {"en": "Bohara", "np": "बोहरा"},
+      {"en": "Budhathoki", "np": "बुढाथोकी"},
+      {"en": "Baniya", "np": "वानिया"},
+      {"en": "Gharti", "np": "घर्ती"},
+      {"en": "Kunwar", "np": "कुँवर"},
+      {"en": "Mahat", "np": "महत"},
+      {"en": "Rokaya", "np": "रोकाया"}
+    ]
+  },
+  "newar": {
+    "male_surnames": [
+      {"en": "Shrestha", "np": "श्रेष्ठ"},
+      {"en": "Manandhar", "np": "मानन्धर"},
+      {"en": "Maharjan", "np": "महर्जन"},
+      {"en": "Dangol", "np": "डङ्गोल"},
+      {"en": "Tuladhar", "np": "तुलाधर"},
+      {"en": "Joshi", "np": "जोशी"},
+      {"en": "Rajbhandari", "np": "राजभण्डारी"},
+      {"en": "Shakya", "np": "शाक्य"},
+      {"en": "Bajracharya", "np": "बज्राचार्य"},
+      {"en": "Pradhan", "np": "प्रधान"},
+      {"en": "Tamrakar", "np": "ताम्रकार"},
+      {"en": "Malla", "np": "मल्ल"},
+      {"en": "Kayastha", "np": "कायस्थ"},
+      {"en": "Vaidya", "np": "वैद्य"},
+      {"en": "Sthapit", "np": "स्थापित"},
+      {"en": "Byanjankar", "np": "ब्याञ्जनकार"},
+      {"en": "Kansakar", "np": "कंसकार"},
+      {"en": "Lakhey", "np": "लाखे"},
+      {"en": "Nakarmi", "np": "नकर्मी"},
+      {"en": "Sayami", "np": "स्यामी"}
+    ]
+  },
+  "janajati": {
+    "male_surnames": [
+      {"en": "Gurung", "np": "गुरुङ"},
+      {"en": "Magar", "np": "मगर"},
+      {"en": "Tamang", "np": "तामाङ"},
+      {"en": "Rai", "np": "राई"},
+      {"en": "Limbu", "np": "लिम्बु"},
+      {"en": "Sherpa", "np": "शेर्पा"},
+      {"en": "Tamang", "np": "तामाङ"},
+      {"en": "Yonjan", "np": "योञ्जन"},
+      {"en": "Sunuwar", "np": "सुनुवार"},
+      {"en": "Thapa", "np": "थापा"},
+      {"en": "Rana", "np": "राणा"},
+      {"en": "Ale", "np": "आले"},
+      {"en": "Ghale", "np": "घले"},
+      {"en": "Lama", "np": "लामा"},
+      {"en": "Bhujel", "np": "भुजेल"},
+      {"en": "Danuwar", "np": "दनुवार"},
+      {"en": "Muktan", "np": "मुक्तान"},
+      {"en": "Lopchan", "np": "लोप्चन"},
+      {"en": "Moktan", "np": "मोक्तान"},
+      {"en": "Hyolmo", "np": "योल्मो"}
+    ]
+  },
+  "madhesi": {
+    "male_surnames": [
+      {"en": "Yadav", "np": "यादव"},
+      {"en": "Mahato", "np": "महतो"},
+      {"en": "Sah", "np": "साह"},
+      {"en": "Mandal", "np": "मण्डल"},
+      {"en": "Singh", "np": "सिंह"},
+      {"en": "Thakur", "np": "ठाकुर"},
+      {"en": "Chaudhary", "np": "चौधरी"},
+      {"en": "Mahto", "np": "महतो"},
+      {"en": "Paswan", "np": "पासवान"},
+      {"en": "Kushwaha", "np": "कुशवाहा"},
+      {"en": "Rajak", "np": "राजक"},
+      {"en": "Manjhi", "np": "माझी"},
+      {"en": "Sada", "np": "सदा"},
+      {"en": "Sahani", "np": "साहनी"},
+      {"en": "Tanti", "np": "तन्ती"},
+      {"en": "Mukhiya", "np": "मुखिया"},
+      {"en": "Karn", "np": "कर्ण"},
+      {"en": "Sadan", "np": "सदन"}
+    ]
+  },
+  "tharu": {
+    "male_surnames": [
+      {"en": "Chaudhary", "np": "चौधरी"},
+      {"en": "Mahato", "np": "महतो"},
+      {"en": "Rana", "np": "राणा"},
+      {"en": "Tharu", "np": "थारू"},
+      {"en": "Dhami", "np": "धामी"},
+      {"en": "Khan", "np": "खान"},
+      {"en": "Chaudhary", "np": "चौधरी"},
+      {"en": "Khatri", "np": "खत्री"},
+      {"en": "Maghi", "np": "मगी"},
+      {"en": "Rana Tharu", "np": "राणा थारू"},
+      {"en": "Somai", "np": "सोमै"},
+      {"en": "Tasi", "np": "तसी"}
+    ]
+  }
+}
