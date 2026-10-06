@@ -5,10 +5,19 @@ from pathlib import Path
 # so it works no matter where you run the script from.
 DATA_DIR = Path(__file__).parent / "data"
 
-def load_names():
+def load_names(filename):
     """Load names from the JSON file."""
-    with open(DATA_DIR / "names.json", "r") as f:
+    with open(DATA_DIR / filename, "r", encoding="utf-8") as f:
         return json.load(f)
+
+def load_all_data():
+    """Load every JSON file in data/ into one dictionary,
+        keyed by filename (without .json)."""
+    all_data = {}
+    for file_path in DATA_DIR.glob("*.json"):
+        key = file_path.stem  # filename without .json
+        all_data[key] = load_names(file_path.name)
+    return all_data
 
 
 
