@@ -5,6 +5,10 @@
 
 from nepafaker_pkg import names
 
-data = names.load_all_data()
-print(list(data.keys()))      # shows which files got loaded
-print(data["names_bahun_chhetri"])   # peek at one file's content
+#data = names.load_all_data()
+#print(list(data.keys()))      # shows which files got loaded
+#print(data["names_bahun_chhetri"])   # peek at one file's content
+
+print(names.generate_name("newar", "female"))
+print(names.generate_name("madhesi", "male", middle=True))
+print(names.generate_name("newar", "female", script="np"))
